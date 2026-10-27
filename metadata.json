@@ -1,0 +1,6 @@
+{
+  "name": "Timeless Vision Initiative",
+  "description": "Retire to Life. Dignified care, community infrastructure, and economic empowerment for Nigeria's elders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
